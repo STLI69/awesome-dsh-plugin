@@ -1,0 +1,6 @@
+url: https://github.com/STLI69/coding-plan
+name: STLI69/coding-plan
+category: model
+description:
+  en: Adds the Volcengine Ark Coding Plan provider route (15 models) to the DeepSeek Harness model picker.
+  zh: 为 DeepSeek Harness 的模型选择器加入火山方舟 Ark Coding Plan provider 路由（15 个模型）。
